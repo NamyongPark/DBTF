@@ -19,9 +19,9 @@ Please check the [project page](https://www.cs.cmu.edu/~namyongp/dbtf/) for more
 
 #### IMPORTANT!
 - Before you use it, please check that the script files are executable. If not,
-you may manually modify the permission of scripts or you may type "make install"
+you may manually modify the permission of scripts or you may type `make install`
 to do the same work.
-- You may type "make demo" to try DBTF on a sample tensor.
+- You may type `make demo` to try DBTF on a sample tensor.
 - Apache Spark should be installed in your system.
 
 #### To run DBTF, you need to do the followings:
